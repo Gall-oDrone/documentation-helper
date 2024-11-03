@@ -20,6 +20,7 @@ emoji==2.14.0
 eval_type_backport==0.2.0
 fastapi==0.115.2
 filetype==1.2.0
+firecrawl-py==1.4.0
 frozenlist==1.4.1
 gitdb==4.0.11
 GitPython==3.1.43
@@ -37,6 +38,7 @@ jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 langchain==0.3.3
+langchain-community==0.3.2
 langchain-core==0.3.10
 langchain-openai==0.2.2
 langchain-pinecone==0.2.0
@@ -69,6 +71,7 @@ psutil==6.0.0
 pyarrow==17.0.0
 pycparser==2.22
 pydantic==2.9.2
+pydantic-settings==2.5.2
 pydantic_core==2.23.4
 pydeck==0.9.1
 Pygments==2.18.0
@@ -109,6 +112,7 @@ unstructured==0.15.14
 unstructured-client==0.26.1
 urllib3==2.2.3
 uvicorn==0.31.1
+websockets==13.1
 wheel==0.44.0
 wrapt==1.16.0
 yarl==1.15.2
